@@ -1,0 +1,15 @@
+.tableContainer {
+  display: inline-block;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  padding: 30px;
+}
+
+.inputDiv{
+  border: 1px solid black;
+  padding: 8px;
+  display: inline-block;
+  margin: 8px;
+}
+
